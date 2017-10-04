@@ -22,7 +22,7 @@ public class BruteForce {
             }
         }
 
-        System.out.println("Min value is f(x) = " + min + " and x = " + minX);
+        System.out.println("Min value is f(x) = " + min + " and x point = " + minX);
 
     }
 }
