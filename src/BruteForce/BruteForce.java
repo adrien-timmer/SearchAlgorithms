@@ -1,4 +1,4 @@
-package com.adrient.BruteForce;
+package BruteForce;
 
 public class BruteForce {
 

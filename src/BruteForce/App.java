@@ -1,4 +1,4 @@
-package com.adrient.BruteForce;
+package BruteForce;
 
 public class App {
     public static void main(String[] args){
