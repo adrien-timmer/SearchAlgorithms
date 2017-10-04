@@ -10,12 +10,12 @@ public class BruteForce {
     }
 
     public void bruteForceSearch() {
-        double startinPointX = START_X;
-        double min = f(startinPointX);
+        double startingPointX = START_X;
+        double min = f(startingPointX);
         double dx = 0.01;
         double minX = START_X;
 
-        for (double i = startinPointX; i < END_X; i += dx) {
+        for (double i = startingPointX; i < END_X; i += dx) {
             if (f(i) < min){
                 min = f(i);
                 minX = i;
